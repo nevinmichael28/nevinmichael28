@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nevin Michael
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Spring boot
+- 📫 How to reach me: nevin@strebetechnik.com
